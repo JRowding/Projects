@@ -1,0 +1,6562 @@
+[
+  {
+    "id": "cf-p-0001",
+    "type": "prompt",
+    "text": "The worst thing to hear in the smoking area is \"____\".",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0002",
+    "type": "prompt",
+    "text": "The worst thing to hear in the queue outside a polling station is \"____\".",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0003",
+    "type": "prompt",
+    "text": "The worst thing to hear in the reunion episode sofa is \"____\".",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0004",
+    "type": "prompt",
+    "text": "The worst thing to hear in the office kitchen crime scene is \"____\".",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0005",
+    "type": "prompt",
+    "text": "The worst thing to hear in the last train home is \"____\".",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0006",
+    "type": "prompt",
+    "text": "The worst thing to hear in a freezing five-a-side pitch is \"____\".",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0007",
+    "type": "prompt",
+    "text": "The worst thing to hear in a driveway with three cones is \"____\".",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0008",
+    "type": "prompt",
+    "text": "The worst thing to hear in the buffet beside the radiator is \"____\".",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0009",
+    "type": "prompt",
+    "text": "The worst thing to hear in a portaloo in July is \"____\".",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0010",
+    "type": "prompt",
+    "text": "The worst thing to hear in an abandoned soft play is \"____\".",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0011",
+    "type": "prompt",
+    "text": "The worst thing to hear in a podcast apology tour is \"____\".",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0012",
+    "type": "prompt",
+    "text": "a man guarding the fruit machine ruined the evening by introducing ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0013",
+    "type": "prompt",
+    "text": "a backbench MP with lager breath ruined the evening by introducing ____.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0014",
+    "type": "prompt",
+    "text": "a reality TV villain in white jeans ruined the evening by introducing ____.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0015",
+    "type": "prompt",
+    "text": "the intern who knows too much ruined the evening by introducing ____.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0016",
+    "type": "prompt",
+    "text": "a hen do with matching sashes ruined the evening by introducing ____.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0017",
+    "type": "prompt",
+    "text": "a bloke in a vintage away shirt ruined the evening by introducing ____.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0018",
+    "type": "prompt",
+    "text": "someone selling half a trampoline ruined the evening by introducing ____.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0019",
+    "type": "prompt",
+    "text": "a divorced uncle with opinions ruined the evening by introducing ____.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0020",
+    "type": "prompt",
+    "text": "the office fridge ruined the evening by introducing ____.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0021",
+    "type": "prompt",
+    "text": "a haunted meal deal ruined the evening by introducing ____.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0022",
+    "type": "prompt",
+    "text": "a disgraced daytime TV guest ruined the evening by introducing ____.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0023",
+    "type": "prompt",
+    "text": "The real reason everyone left the pub toilet corridor was ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0024",
+    "type": "prompt",
+    "text": "The real reason everyone left a village hall hustings was ____.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0025",
+    "type": "prompt",
+    "text": "The real reason everyone left a hot tub full of bad decisions was ____.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0026",
+    "type": "prompt",
+    "text": "The real reason everyone left a Teams call nobody wanted was ____.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0027",
+    "type": "prompt",
+    "text": "The real reason everyone left the kebab shop at 2:17am was ____.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0028",
+    "type": "prompt",
+    "text": "The real reason everyone left the away end queue was ____.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0029",
+    "type": "prompt",
+    "text": "The real reason everyone left the community centre noticeboard was ____.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0030",
+    "type": "prompt",
+    "text": "The real reason everyone left Boxing Day lunch was ____.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0031",
+    "type": "prompt",
+    "text": "The real reason everyone left the back seat of a night bus was ____.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0032",
+    "type": "prompt",
+    "text": "The real reason everyone left a budget funeral buffet with no context was ____.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0033",
+    "type": "prompt",
+    "text": "The real reason everyone left a red-top splash page was ____.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0034",
+    "type": "prompt",
+    "text": "The group chat exploded after the pub landlord posted ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0035",
+    "type": "prompt",
+    "text": "The group chat exploded after a council candidate with haunted eyes posted ____.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0036",
+    "type": "prompt",
+    "text": "The group chat exploded after a crying contestant named Brad posted ____.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0037",
+    "type": "prompt",
+    "text": "The group chat exploded after the HR business partner posted ____.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0038",
+    "type": "prompt",
+    "text": "The group chat exploded after a bouncer who has seen everything posted ____.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0039",
+    "type": "prompt",
+    "text": "The group chat exploded after the loudest man in the pub posted ____.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0040",
+    "type": "prompt",
+    "text": "The group chat exploded after a neighbourhood watch admin posted ____.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0041",
+    "type": "prompt",
+    "text": "The group chat exploded after Nan after two sherries posted ____.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0042",
+    "type": "prompt",
+    "text": "The group chat exploded after a festival toilet survivor posted ____.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0043",
+    "type": "prompt",
+    "text": "The group chat exploded after a cursed ventriloquist dummy posted ____.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0044",
+    "type": "prompt",
+    "text": "The group chat exploded after a tabloid astrologer with receipts posted ____.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0045",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a sticky Wetherspoons table.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0046",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a televised apology sofa.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0047",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at the sponsored villa kitchen.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0048",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a windowless meeting room.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0049",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a nightclub toilet mirror.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0050",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a pub showing the early kickoff.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0051",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at the local Facebook comments.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0052",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a wedding table plan disaster.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0053",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a student kitchen sink.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0054",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at a motorway services at midnight.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0055",
+    "type": "prompt",
+    "text": "Nothing says modern Britain like ____ at the back door of an awards afterparty.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0056",
+    "type": "prompt",
+    "text": "The committee rejected the proposal after discovering ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0067",
+    "type": "prompt",
+    "text": "The emergency announcement at the smoking area was just ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0068",
+    "type": "prompt",
+    "text": "The emergency announcement at the queue outside a polling station was just ____.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0069",
+    "type": "prompt",
+    "text": "The emergency announcement at the reunion episode sofa was just ____.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0070",
+    "type": "prompt",
+    "text": "The emergency announcement at the office kitchen crime scene was just ____.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0071",
+    "type": "prompt",
+    "text": "The emergency announcement at the last train home was just ____.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0072",
+    "type": "prompt",
+    "text": "The emergency announcement at a freezing five-a-side pitch was just ____.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0073",
+    "type": "prompt",
+    "text": "The emergency announcement at a driveway with three cones was just ____.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0074",
+    "type": "prompt",
+    "text": "The emergency announcement at the buffet beside the radiator was just ____.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0075",
+    "type": "prompt",
+    "text": "The emergency announcement at a portaloo in July was just ____.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0076",
+    "type": "prompt",
+    "text": "The emergency announcement at an abandoned soft play was just ____.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0077",
+    "type": "prompt",
+    "text": "The emergency announcement at a podcast apology tour was just ____.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0078",
+    "type": "prompt",
+    "text": "a man guarding the fruit machine tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0079",
+    "type": "prompt",
+    "text": "a backbench MP with lager breath tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0080",
+    "type": "prompt",
+    "text": "a reality TV villain in white jeans tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0081",
+    "type": "prompt",
+    "text": "the intern who knows too much tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0082",
+    "type": "prompt",
+    "text": "a hen do with matching sashes tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0083",
+    "type": "prompt",
+    "text": "a bloke in a vintage away shirt tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0084",
+    "type": "prompt",
+    "text": "someone selling half a trampoline tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0085",
+    "type": "prompt",
+    "text": "a divorced uncle with opinions tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0086",
+    "type": "prompt",
+    "text": "the office fridge tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0087",
+    "type": "prompt",
+    "text": "a haunted meal deal tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0088",
+    "type": "prompt",
+    "text": "a disgraced daytime TV guest tried to explain ____ and somehow made it worse.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0089",
+    "type": "prompt",
+    "text": "The final straw was ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-p-0100",
+    "type": "prompt",
+    "text": "The theme for tonight is ____.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0001",
+    "type": "answer",
+    "text": "the cursed karaoke mic.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0002",
+    "type": "answer",
+    "text": "a manifesto written on a napkin.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0003",
+    "type": "answer",
+    "text": "a ring light of judgment.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0004",
+    "type": "answer",
+    "text": "a spreadsheet named FINAL_FINAL_REAL.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0005",
+    "type": "answer",
+    "text": "a sticky Jagerbomb tray.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0006",
+    "type": "answer",
+    "text": "a scarf with questionable spelling.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0007",
+    "type": "answer",
+    "text": "a passive-aggressive bin post.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0008",
+    "type": "answer",
+    "text": "a suspicious trifle.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0009",
+    "type": "answer",
+    "text": "a bin juice cocktail.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0010",
+    "type": "answer",
+    "text": "a legal waiver made of ham.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0011",
+    "type": "answer",
+    "text": "a super-injunction made of glitter.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0012",
+    "type": "answer",
+    "text": "a man guarding the fruit machine crying into the jukebox.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0013",
+    "type": "answer",
+    "text": "a backbench MP with lager breath promising to fix bins with vibes.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0014",
+    "type": "answer",
+    "text": "a reality TV villain in white jeans storming off for brand synergy.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0015",
+    "type": "answer",
+    "text": "the intern who knows too much circling back until everyone gives up.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0016",
+    "type": "answer",
+    "text": "a hen do with matching sashes texting an ex with confidence.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0017",
+    "type": "answer",
+    "text": "a bloke in a vintage away shirt explaining xG to a stranger.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0018",
+    "type": "answer",
+    "text": "someone selling half a trampoline declaring the high street finished.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0019",
+    "type": "answer",
+    "text": "a divorced uncle with opinions bringing up inheritance at pudding.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0020",
+    "type": "answer",
+    "text": "the office fridge leaking through the carrier bag.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0021",
+    "type": "answer",
+    "text": "a haunted meal deal whispering tax advice from a cupboard.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0022",
+    "type": "answer",
+    "text": "a disgraced daytime TV guest selling the story for petrol money.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0023",
+    "type": "answer",
+    "text": "a flat pint discovered behind the pub toilet corridor.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0024",
+    "type": "answer",
+    "text": "an expenses form full of nonsense discovered behind a village hall hustings.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0025",
+    "type": "answer",
+    "text": "a protein shaker full of secrets discovered behind a hot tub full of bad decisions.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0026",
+    "type": "answer",
+    "text": "a passive-aggressive mug discovered behind a Teams call nobody wanted.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0027",
+    "type": "answer",
+    "text": "a shoe full of regret discovered behind the kebab shop at 2:17am.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0028",
+    "type": "answer",
+    "text": "a VAR decision made by vibes discovered behind the away end queue.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0029",
+    "type": "answer",
+    "text": "a blurry photo of a fox discovered behind the community centre noticeboard.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0030",
+    "type": "answer",
+    "text": "a family secret in a Tesco bag discovered behind Boxing Day lunch.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0031",
+    "type": "answer",
+    "text": "a mystery stain with confidence discovered behind the back seat of a night bus.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0032",
+    "type": "answer",
+    "text": "a cursed urn full of loose change discovered behind a budget funeral buffet with no context.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0033",
+    "type": "answer",
+    "text": "a leaked voice note discovered behind a red-top splash page.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0034",
+    "type": "answer",
+    "text": "A tactical deployment of the cursed karaoke mic.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0035",
+    "type": "answer",
+    "text": "A tactical deployment of a manifesto written on a napkin.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0036",
+    "type": "answer",
+    "text": "A tactical deployment of a ring light of judgment.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0037",
+    "type": "answer",
+    "text": "A tactical deployment of a spreadsheet named FINAL_FINAL_REAL.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0038",
+    "type": "answer",
+    "text": "A tactical deployment of a sticky Jagerbomb tray.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0039",
+    "type": "answer",
+    "text": "A tactical deployment of a scarf with questionable spelling.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0040",
+    "type": "answer",
+    "text": "A tactical deployment of a passive-aggressive bin post.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0041",
+    "type": "answer",
+    "text": "A tactical deployment of a suspicious trifle.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0042",
+    "type": "answer",
+    "text": "A tactical deployment of a bin juice cocktail.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0043",
+    "type": "answer",
+    "text": "A tactical deployment of a legal waiver made of ham.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0044",
+    "type": "answer",
+    "text": "A tactical deployment of a super-injunction made of glitter.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0045",
+    "type": "answer",
+    "text": "Blaming everything on a man guarding the fruit machine.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0046",
+    "type": "answer",
+    "text": "Blaming everything on a backbench MP with lager breath.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0047",
+    "type": "answer",
+    "text": "Blaming everything on a reality TV villain in white jeans.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0048",
+    "type": "answer",
+    "text": "Blaming everything on the intern who knows too much.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0049",
+    "type": "answer",
+    "text": "Blaming everything on a hen do with matching sashes.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0050",
+    "type": "answer",
+    "text": "Blaming everything on a bloke in a vintage away shirt.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0051",
+    "type": "answer",
+    "text": "Blaming everything on someone selling half a trampoline.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0052",
+    "type": "answer",
+    "text": "Blaming everything on a divorced uncle with opinions.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0053",
+    "type": "answer",
+    "text": "Blaming everything on the office fridge.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0054",
+    "type": "answer",
+    "text": "Blaming everything on a haunted meal deal.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0055",
+    "type": "answer",
+    "text": "Blaming everything on a disgraced daytime TV guest.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0056",
+    "type": "answer",
+    "text": "Turning the pub toilet corridor into a crime scene with a flat pint.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0057",
+    "type": "answer",
+    "text": "Turning a village hall hustings into a crime scene with an expenses form full of nonsense.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0058",
+    "type": "answer",
+    "text": "Turning a hot tub full of bad decisions into a crime scene with a protein shaker full of secrets.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0059",
+    "type": "answer",
+    "text": "Turning a Teams call nobody wanted into a crime scene with a passive-aggressive mug.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0060",
+    "type": "answer",
+    "text": "Turning the kebab shop at 2:17am into a crime scene with a shoe full of regret.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0061",
+    "type": "answer",
+    "text": "Turning the away end queue into a crime scene with a VAR decision made by vibes.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0062",
+    "type": "answer",
+    "text": "Turning the community centre noticeboard into a crime scene with a blurry photo of a fox.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0063",
+    "type": "answer",
+    "text": "Turning Boxing Day lunch into a crime scene with a family secret in a Tesco bag.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0064",
+    "type": "answer",
+    "text": "Turning the back seat of a night bus into a crime scene with a mystery stain with confidence.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0065",
+    "type": "answer",
+    "text": "Turning a budget funeral buffet with no context into a crime scene with a cursed urn full of loose change.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0066",
+    "type": "answer",
+    "text": "Turning a red-top splash page into a crime scene with a leaked voice note.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0067",
+    "type": "answer",
+    "text": "A legally troubling amount of the cursed karaoke mic.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0068",
+    "type": "answer",
+    "text": "A legally troubling amount of a manifesto written on a napkin.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0069",
+    "type": "answer",
+    "text": "A legally troubling amount of a ring light of judgment.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0070",
+    "type": "answer",
+    "text": "A legally troubling amount of a spreadsheet named FINAL_FINAL_REAL.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0071",
+    "type": "answer",
+    "text": "A legally troubling amount of a sticky Jagerbomb tray.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0072",
+    "type": "answer",
+    "text": "A legally troubling amount of a scarf with questionable spelling.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0073",
+    "type": "answer",
+    "text": "A legally troubling amount of a passive-aggressive bin post.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0074",
+    "type": "answer",
+    "text": "A legally troubling amount of a suspicious trifle.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0075",
+    "type": "answer",
+    "text": "A legally troubling amount of a bin juice cocktail.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0076",
+    "type": "answer",
+    "text": "A legally troubling amount of a legal waiver made of ham.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0077",
+    "type": "answer",
+    "text": "A legally troubling amount of a super-injunction made of glitter.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0078",
+    "type": "answer",
+    "text": "a man guarding the fruit machine loudly defending a suspicious pork scratching.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0079",
+    "type": "answer",
+    "text": "a backbench MP with lager breath loudly defending a patriotic novelty mug.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0080",
+    "type": "answer",
+    "text": "a reality TV villain in white jeans loudly defending a fake tan emergency kit.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0081",
+    "type": "answer",
+    "text": "the intern who knows too much loudly defending a printer full of despair.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0082",
+    "type": "answer",
+    "text": "a hen do with matching sashes loudly defending a taxi receipt with emotional damage.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0083",
+    "type": "answer",
+    "text": "a bloke in a vintage away shirt loudly defending a pie hotter than the sun.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0084",
+    "type": "answer",
+    "text": "someone selling half a trampoline loudly defending a lost parcel accusation.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0085",
+    "type": "answer",
+    "text": "a divorced uncle with opinions loudly defending a birthday card with the wrong age.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0086",
+    "type": "answer",
+    "text": "the office fridge loudly defending a damp sock with a backstory.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0087",
+    "type": "answer",
+    "text": "a haunted meal deal loudly defending a raffle prize nobody survives socially.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0088",
+    "type": "answer",
+    "text": "a disgraced daytime TV guest loudly defending a fake tan scandal dossier.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0089",
+    "type": "answer",
+    "text": "The emotional aftermath of the pub toilet corridor.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0090",
+    "type": "answer",
+    "text": "The emotional aftermath of a village hall hustings.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0091",
+    "type": "answer",
+    "text": "The emotional aftermath of a hot tub full of bad decisions.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0092",
+    "type": "answer",
+    "text": "The emotional aftermath of a Teams call nobody wanted.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0093",
+    "type": "answer",
+    "text": "The emotional aftermath of the kebab shop at 2:17am.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0094",
+    "type": "answer",
+    "text": "The emotional aftermath of the away end queue.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0095",
+    "type": "answer",
+    "text": "The emotional aftermath of the community centre noticeboard.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0096",
+    "type": "answer",
+    "text": "The emotional aftermath of Boxing Day lunch.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0097",
+    "type": "answer",
+    "text": "The emotional aftermath of the back seat of a night bus.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0098",
+    "type": "answer",
+    "text": "The emotional aftermath of a budget funeral buffet with no context.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0099",
+    "type": "answer",
+    "text": "The emotional aftermath of a red-top splash page.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0100",
+    "type": "answer",
+    "text": "declaring themselves darts captain while everyone pretends not to notice.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0101",
+    "type": "answer",
+    "text": "resigning into a hedge while everyone pretends not to notice.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0102",
+    "type": "answer",
+    "text": "confessing everything to camera three while everyone pretends not to notice.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0103",
+    "type": "answer",
+    "text": "booking a meeting about morale while everyone pretends not to notice.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0104",
+    "type": "answer",
+    "text": "losing the cloakroom ticket while everyone pretends not to notice.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0105",
+    "type": "answer",
+    "text": "two-footing a conversation while everyone pretends not to notice.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0106",
+    "type": "answer",
+    "text": "asking if anyone heard that bang while everyone pretends not to notice.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0107",
+    "type": "answer",
+    "text": "clapping on the wrong beat while everyone pretends not to notice.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0108",
+    "type": "answer",
+    "text": "fermenting under the radiator while everyone pretends not to notice.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0109",
+    "type": "answer",
+    "text": "making eye contact with the void while everyone pretends not to notice.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0110",
+    "type": "answer",
+    "text": "crying exclusively to the tabloids while everyone pretends not to notice.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0111",
+    "type": "answer",
+    "text": "a suspicious pork scratching.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0112",
+    "type": "answer",
+    "text": "a patriotic novelty mug.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0113",
+    "type": "answer",
+    "text": "a fake tan emergency kit.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0114",
+    "type": "answer",
+    "text": "a printer full of despair.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0115",
+    "type": "answer",
+    "text": "a taxi receipt with emotional damage.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0116",
+    "type": "answer",
+    "text": "a pie hotter than the sun.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0117",
+    "type": "answer",
+    "text": "a lost parcel accusation.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0118",
+    "type": "answer",
+    "text": "a birthday card with the wrong age.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0119",
+    "type": "answer",
+    "text": "a damp sock with a backstory.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0120",
+    "type": "answer",
+    "text": "a raffle prize nobody survives socially.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0121",
+    "type": "answer",
+    "text": "a fake tan scandal dossier.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0122",
+    "type": "answer",
+    "text": "a quiz team with no answers starting beef over crisps.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0123",
+    "type": "answer",
+    "text": "a minister dodging the obvious question calling it a robust process.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0124",
+    "type": "answer",
+    "text": "a Love Island reject with a podcast weaponising the word loyal.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0125",
+    "type": "answer",
+    "text": "a manager who says touch base replying all with menace.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0126",
+    "type": "answer",
+    "text": "a DJ allergic to requests starting a dance circle nobody asked for.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0127",
+    "type": "answer",
+    "text": "a Sunday league goalkeeper calling everyone ref.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0128",
+    "type": "answer",
+    "text": "a furious woman called Bev naming and shaming a wheelie bin.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0129",
+    "type": "answer",
+    "text": "a cousin with a crypto pitch asking why you're still single.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0130",
+    "type": "answer",
+    "text": "a hungover flatmate sniffing it and making things worse.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0131",
+    "type": "answer",
+    "text": "the concept of hope in a hi-vis vest summoning Ofsted by accident.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0132",
+    "type": "answer",
+    "text": "a celebrity chef's angry cousin launching a wellness brand by Monday.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0133",
+    "type": "answer",
+    "text": "the cursed karaoke mic discovered behind the smoking area.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0134",
+    "type": "answer",
+    "text": "a manifesto written on a napkin discovered behind the queue outside a polling station.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0135",
+    "type": "answer",
+    "text": "a ring light of judgment discovered behind the reunion episode sofa.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0136",
+    "type": "answer",
+    "text": "a spreadsheet named FINAL_FINAL_REAL discovered behind the office kitchen crime scene.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0137",
+    "type": "answer",
+    "text": "a sticky Jagerbomb tray discovered behind the last train home.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0138",
+    "type": "answer",
+    "text": "a scarf with questionable spelling discovered behind a freezing five-a-side pitch.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0139",
+    "type": "answer",
+    "text": "a passive-aggressive bin post discovered behind a driveway with three cones.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0140",
+    "type": "answer",
+    "text": "a suspicious trifle discovered behind the buffet beside the radiator.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0141",
+    "type": "answer",
+    "text": "a bin juice cocktail discovered behind a portaloo in July.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0142",
+    "type": "answer",
+    "text": "a legal waiver made of ham discovered behind an abandoned soft play.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0143",
+    "type": "answer",
+    "text": "a super-injunction made of glitter discovered behind a podcast apology tour.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0144",
+    "type": "answer",
+    "text": "A tactical deployment of a suspicious pork scratching.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0145",
+    "type": "answer",
+    "text": "A tactical deployment of a patriotic novelty mug.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0146",
+    "type": "answer",
+    "text": "A tactical deployment of a fake tan emergency kit.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0147",
+    "type": "answer",
+    "text": "A tactical deployment of a printer full of despair.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0148",
+    "type": "answer",
+    "text": "A tactical deployment of a taxi receipt with emotional damage.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0149",
+    "type": "answer",
+    "text": "A tactical deployment of a pie hotter than the sun.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0150",
+    "type": "answer",
+    "text": "A tactical deployment of a lost parcel accusation.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0151",
+    "type": "answer",
+    "text": "A tactical deployment of a birthday card with the wrong age.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0152",
+    "type": "answer",
+    "text": "A tactical deployment of a damp sock with a backstory.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0153",
+    "type": "answer",
+    "text": "A tactical deployment of a raffle prize nobody survives socially.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0154",
+    "type": "answer",
+    "text": "A tactical deployment of a fake tan scandal dossier.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0155",
+    "type": "answer",
+    "text": "Blaming everything on a quiz team with no answers.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0156",
+    "type": "answer",
+    "text": "Blaming everything on a minister dodging the obvious question.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0157",
+    "type": "answer",
+    "text": "Blaming everything on a Love Island reject with a podcast.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0158",
+    "type": "answer",
+    "text": "Blaming everything on a manager who says touch base.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0159",
+    "type": "answer",
+    "text": "Blaming everything on a DJ allergic to requests.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0160",
+    "type": "answer",
+    "text": "Blaming everything on a Sunday league goalkeeper.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0161",
+    "type": "answer",
+    "text": "Blaming everything on a furious woman called Bev.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0162",
+    "type": "answer",
+    "text": "Blaming everything on a cousin with a crypto pitch.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0163",
+    "type": "answer",
+    "text": "Blaming everything on a hungover flatmate.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0164",
+    "type": "answer",
+    "text": "Blaming everything on the concept of hope in a hi-vis vest.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0165",
+    "type": "answer",
+    "text": "Blaming everything on a celebrity chef's angry cousin.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0166",
+    "type": "answer",
+    "text": "Turning the smoking area into a crime scene with the cursed karaoke mic.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0167",
+    "type": "answer",
+    "text": "Turning the queue outside a polling station into a crime scene with a manifesto written on a napkin.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0168",
+    "type": "answer",
+    "text": "Turning the reunion episode sofa into a crime scene with a ring light of judgment.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0169",
+    "type": "answer",
+    "text": "Turning the office kitchen crime scene into a crime scene with a spreadsheet named FINAL_FINAL_REAL.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0170",
+    "type": "answer",
+    "text": "Turning the last train home into a crime scene with a sticky Jagerbomb tray.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0171",
+    "type": "answer",
+    "text": "Turning a freezing five-a-side pitch into a crime scene with a scarf with questionable spelling.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0172",
+    "type": "answer",
+    "text": "Turning a driveway with three cones into a crime scene with a passive-aggressive bin post.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0173",
+    "type": "answer",
+    "text": "Turning the buffet beside the radiator into a crime scene with a suspicious trifle.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0174",
+    "type": "answer",
+    "text": "Turning a portaloo in July into a crime scene with a bin juice cocktail.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0175",
+    "type": "answer",
+    "text": "Turning an abandoned soft play into a crime scene with a legal waiver made of ham.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0176",
+    "type": "answer",
+    "text": "Turning a podcast apology tour into a crime scene with a super-injunction made of glitter.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0177",
+    "type": "answer",
+    "text": "A legally troubling amount of a suspicious pork scratching.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0178",
+    "type": "answer",
+    "text": "A legally troubling amount of a patriotic novelty mug.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0179",
+    "type": "answer",
+    "text": "A legally troubling amount of a fake tan emergency kit.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0180",
+    "type": "answer",
+    "text": "A legally troubling amount of a printer full of despair.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0181",
+    "type": "answer",
+    "text": "A legally troubling amount of a taxi receipt with emotional damage.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0182",
+    "type": "answer",
+    "text": "A legally troubling amount of a pie hotter than the sun.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0183",
+    "type": "answer",
+    "text": "A legally troubling amount of a lost parcel accusation.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0184",
+    "type": "answer",
+    "text": "A legally troubling amount of a birthday card with the wrong age.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0185",
+    "type": "answer",
+    "text": "A legally troubling amount of a damp sock with a backstory.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0186",
+    "type": "answer",
+    "text": "A legally troubling amount of a raffle prize nobody survives socially.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0187",
+    "type": "answer",
+    "text": "A legally troubling amount of a fake tan scandal dossier.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0188",
+    "type": "answer",
+    "text": "a quiz team with no answers loudly defending a flat pint.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0189",
+    "type": "answer",
+    "text": "a minister dodging the obvious question loudly defending an expenses form full of nonsense.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0190",
+    "type": "answer",
+    "text": "a Love Island reject with a podcast loudly defending a protein shaker full of secrets.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0191",
+    "type": "answer",
+    "text": "a manager who says touch base loudly defending a passive-aggressive mug.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0192",
+    "type": "answer",
+    "text": "a DJ allergic to requests loudly defending a shoe full of regret.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0193",
+    "type": "answer",
+    "text": "a Sunday league goalkeeper loudly defending a VAR decision made by vibes.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0194",
+    "type": "answer",
+    "text": "a furious woman called Bev loudly defending a blurry photo of a fox.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0195",
+    "type": "answer",
+    "text": "a cousin with a crypto pitch loudly defending a family secret in a Tesco bag.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0196",
+    "type": "answer",
+    "text": "a hungover flatmate loudly defending a mystery stain with confidence.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0197",
+    "type": "answer",
+    "text": "the concept of hope in a hi-vis vest loudly defending a cursed urn full of loose change.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0198",
+    "type": "answer",
+    "text": "a celebrity chef's angry cousin loudly defending a leaked voice note.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0199",
+    "type": "answer",
+    "text": "The emotional aftermath of the smoking area.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0200",
+    "type": "answer",
+    "text": "The emotional aftermath of the queue outside a polling station.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0201",
+    "type": "answer",
+    "text": "The emotional aftermath of the reunion episode sofa.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0202",
+    "type": "answer",
+    "text": "The emotional aftermath of the office kitchen crime scene.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0203",
+    "type": "answer",
+    "text": "The emotional aftermath of the last train home.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0204",
+    "type": "answer",
+    "text": "The emotional aftermath of a freezing five-a-side pitch.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0205",
+    "type": "answer",
+    "text": "The emotional aftermath of a driveway with three cones.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0206",
+    "type": "answer",
+    "text": "The emotional aftermath of the buffet beside the radiator.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0207",
+    "type": "answer",
+    "text": "The emotional aftermath of a portaloo in July.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0208",
+    "type": "answer",
+    "text": "The emotional aftermath of an abandoned soft play.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0209",
+    "type": "answer",
+    "text": "The emotional aftermath of a podcast apology tour.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0210",
+    "type": "answer",
+    "text": "crying into the jukebox while everyone pretends not to notice.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0211",
+    "type": "answer",
+    "text": "promising to fix bins with vibes while everyone pretends not to notice.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0212",
+    "type": "answer",
+    "text": "storming off for brand synergy while everyone pretends not to notice.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0213",
+    "type": "answer",
+    "text": "circling back until everyone gives up while everyone pretends not to notice.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0214",
+    "type": "answer",
+    "text": "texting an ex with confidence while everyone pretends not to notice.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0215",
+    "type": "answer",
+    "text": "explaining xG to a stranger while everyone pretends not to notice.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0216",
+    "type": "answer",
+    "text": "declaring the high street finished while everyone pretends not to notice.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0217",
+    "type": "answer",
+    "text": "bringing up inheritance at pudding while everyone pretends not to notice.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0218",
+    "type": "answer",
+    "text": "leaking through the carrier bag while everyone pretends not to notice.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0219",
+    "type": "answer",
+    "text": "whispering tax advice from a cupboard while everyone pretends not to notice.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0220",
+    "type": "answer",
+    "text": "selling the story for petrol money while everyone pretends not to notice.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0221",
+    "type": "answer",
+    "text": "a flat pint.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0222",
+    "type": "answer",
+    "text": "an expenses form full of nonsense.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0223",
+    "type": "answer",
+    "text": "a protein shaker full of secrets.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0224",
+    "type": "answer",
+    "text": "a passive-aggressive mug.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0225",
+    "type": "answer",
+    "text": "a shoe full of regret.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0226",
+    "type": "answer",
+    "text": "a VAR decision made by vibes.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0227",
+    "type": "answer",
+    "text": "a blurry photo of a fox.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0228",
+    "type": "answer",
+    "text": "a family secret in a Tesco bag.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0229",
+    "type": "answer",
+    "text": "a mystery stain with confidence.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0230",
+    "type": "answer",
+    "text": "a cursed urn full of loose change.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0231",
+    "type": "answer",
+    "text": "a leaked voice note.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0232",
+    "type": "answer",
+    "text": "the pub landlord declaring themselves darts captain.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0233",
+    "type": "answer",
+    "text": "a council candidate with haunted eyes resigning into a hedge.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0234",
+    "type": "answer",
+    "text": "a crying contestant named Brad confessing everything to camera three.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0235",
+    "type": "answer",
+    "text": "the HR business partner booking a meeting about morale.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0236",
+    "type": "answer",
+    "text": "a bouncer who has seen everything losing the cloakroom ticket.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0237",
+    "type": "answer",
+    "text": "the loudest man in the pub two-footing a conversation.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0238",
+    "type": "answer",
+    "text": "a neighbourhood watch admin asking if anyone heard that bang.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0239",
+    "type": "answer",
+    "text": "Nan after two sherries clapping on the wrong beat.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0240",
+    "type": "answer",
+    "text": "a festival toilet survivor fermenting under the radiator.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0241",
+    "type": "answer",
+    "text": "a cursed ventriloquist dummy making eye contact with the void.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0242",
+    "type": "answer",
+    "text": "a tabloid astrologer with receipts crying exclusively to the tabloids.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0243",
+    "type": "answer",
+    "text": "a suspicious pork scratching discovered behind a sticky Wetherspoons table.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0244",
+    "type": "answer",
+    "text": "a patriotic novelty mug discovered behind a televised apology sofa.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0245",
+    "type": "answer",
+    "text": "a fake tan emergency kit discovered behind the sponsored villa kitchen.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0246",
+    "type": "answer",
+    "text": "a printer full of despair discovered behind a windowless meeting room.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0247",
+    "type": "answer",
+    "text": "a taxi receipt with emotional damage discovered behind a nightclub toilet mirror.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0248",
+    "type": "answer",
+    "text": "a pie hotter than the sun discovered behind a pub showing the early kickoff.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0249",
+    "type": "answer",
+    "text": "a lost parcel accusation discovered behind the local Facebook comments.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0250",
+    "type": "answer",
+    "text": "a birthday card with the wrong age discovered behind a wedding table plan disaster.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0251",
+    "type": "answer",
+    "text": "a damp sock with a backstory discovered behind a student kitchen sink.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0252",
+    "type": "answer",
+    "text": "a raffle prize nobody survives socially discovered behind a motorway services at midnight.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0253",
+    "type": "answer",
+    "text": "a fake tan scandal dossier discovered behind the back door of an awards afterparty.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0254",
+    "type": "answer",
+    "text": "A tactical deployment of a flat pint.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0255",
+    "type": "answer",
+    "text": "A tactical deployment of an expenses form full of nonsense.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0256",
+    "type": "answer",
+    "text": "A tactical deployment of a protein shaker full of secrets.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0257",
+    "type": "answer",
+    "text": "A tactical deployment of a passive-aggressive mug.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0258",
+    "type": "answer",
+    "text": "A tactical deployment of a shoe full of regret.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0259",
+    "type": "answer",
+    "text": "A tactical deployment of a VAR decision made by vibes.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0260",
+    "type": "answer",
+    "text": "A tactical deployment of a blurry photo of a fox.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0261",
+    "type": "answer",
+    "text": "A tactical deployment of a family secret in a Tesco bag.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0262",
+    "type": "answer",
+    "text": "A tactical deployment of a mystery stain with confidence.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0263",
+    "type": "answer",
+    "text": "A tactical deployment of a cursed urn full of loose change.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0264",
+    "type": "answer",
+    "text": "A tactical deployment of a leaked voice note.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0265",
+    "type": "answer",
+    "text": "Blaming everything on the pub landlord.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0266",
+    "type": "answer",
+    "text": "Blaming everything on a council candidate with haunted eyes.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0267",
+    "type": "answer",
+    "text": "Blaming everything on a crying contestant named Brad.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0268",
+    "type": "answer",
+    "text": "Blaming everything on the HR business partner.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0269",
+    "type": "answer",
+    "text": "Blaming everything on a bouncer who has seen everything.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0270",
+    "type": "answer",
+    "text": "Blaming everything on the loudest man in the pub.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0271",
+    "type": "answer",
+    "text": "Blaming everything on a neighbourhood watch admin.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0272",
+    "type": "answer",
+    "text": "Blaming everything on Nan after two sherries.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0273",
+    "type": "answer",
+    "text": "Blaming everything on a festival toilet survivor.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0274",
+    "type": "answer",
+    "text": "Blaming everything on a cursed ventriloquist dummy.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0275",
+    "type": "answer",
+    "text": "Blaming everything on a tabloid astrologer with receipts.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0276",
+    "type": "answer",
+    "text": "Turning a sticky Wetherspoons table into a crime scene with a suspicious pork scratching.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0277",
+    "type": "answer",
+    "text": "Turning a televised apology sofa into a crime scene with a patriotic novelty mug.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0278",
+    "type": "answer",
+    "text": "Turning the sponsored villa kitchen into a crime scene with a fake tan emergency kit.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0279",
+    "type": "answer",
+    "text": "Turning a windowless meeting room into a crime scene with a printer full of despair.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0280",
+    "type": "answer",
+    "text": "Turning a nightclub toilet mirror into a crime scene with a taxi receipt with emotional damage.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0281",
+    "type": "answer",
+    "text": "Turning a pub showing the early kickoff into a crime scene with a pie hotter than the sun.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0282",
+    "type": "answer",
+    "text": "Turning the local Facebook comments into a crime scene with a lost parcel accusation.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0283",
+    "type": "answer",
+    "text": "Turning a wedding table plan disaster into a crime scene with a birthday card with the wrong age.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0284",
+    "type": "answer",
+    "text": "Turning a student kitchen sink into a crime scene with a damp sock with a backstory.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0285",
+    "type": "answer",
+    "text": "Turning a motorway services at midnight into a crime scene with a raffle prize nobody survives socially.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0286",
+    "type": "answer",
+    "text": "Turning the back door of an awards afterparty into a crime scene with a fake tan scandal dossier.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0287",
+    "type": "answer",
+    "text": "A legally troubling amount of a flat pint.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0288",
+    "type": "answer",
+    "text": "A legally troubling amount of an expenses form full of nonsense.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0289",
+    "type": "answer",
+    "text": "A legally troubling amount of a protein shaker full of secrets.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0290",
+    "type": "answer",
+    "text": "A legally troubling amount of a passive-aggressive mug.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0291",
+    "type": "answer",
+    "text": "A legally troubling amount of a shoe full of regret.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0292",
+    "type": "answer",
+    "text": "A legally troubling amount of a VAR decision made by vibes.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0293",
+    "type": "answer",
+    "text": "A legally troubling amount of a blurry photo of a fox.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0294",
+    "type": "answer",
+    "text": "A legally troubling amount of a family secret in a Tesco bag.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0295",
+    "type": "answer",
+    "text": "A legally troubling amount of a mystery stain with confidence.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0296",
+    "type": "answer",
+    "text": "A legally troubling amount of a cursed urn full of loose change.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0297",
+    "type": "answer",
+    "text": "A legally troubling amount of a leaked voice note.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0298",
+    "type": "answer",
+    "text": "the pub landlord loudly defending the cursed karaoke mic.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0299",
+    "type": "answer",
+    "text": "a council candidate with haunted eyes loudly defending a manifesto written on a napkin.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0300",
+    "type": "answer",
+    "text": "a crying contestant named Brad loudly defending a ring light of judgment.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0301",
+    "type": "answer",
+    "text": "the HR business partner loudly defending a spreadsheet named FINAL_FINAL_REAL.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0302",
+    "type": "answer",
+    "text": "a bouncer who has seen everything loudly defending a sticky Jagerbomb tray.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0303",
+    "type": "answer",
+    "text": "the loudest man in the pub loudly defending a scarf with questionable spelling.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0304",
+    "type": "answer",
+    "text": "a neighbourhood watch admin loudly defending a passive-aggressive bin post.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0305",
+    "type": "answer",
+    "text": "Nan after two sherries loudly defending a suspicious trifle.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0306",
+    "type": "answer",
+    "text": "a festival toilet survivor loudly defending a bin juice cocktail.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0307",
+    "type": "answer",
+    "text": "a cursed ventriloquist dummy loudly defending a legal waiver made of ham.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0308",
+    "type": "answer",
+    "text": "a tabloid astrologer with receipts loudly defending a super-injunction made of glitter.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0309",
+    "type": "answer",
+    "text": "The emotional aftermath of a sticky Wetherspoons table.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0310",
+    "type": "answer",
+    "text": "The emotional aftermath of a televised apology sofa.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0311",
+    "type": "answer",
+    "text": "The emotional aftermath of the sponsored villa kitchen.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0312",
+    "type": "answer",
+    "text": "The emotional aftermath of a windowless meeting room.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0313",
+    "type": "answer",
+    "text": "The emotional aftermath of a nightclub toilet mirror.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0314",
+    "type": "answer",
+    "text": "The emotional aftermath of a pub showing the early kickoff.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0315",
+    "type": "answer",
+    "text": "The emotional aftermath of the local Facebook comments.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0316",
+    "type": "answer",
+    "text": "The emotional aftermath of a wedding table plan disaster.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0317",
+    "type": "answer",
+    "text": "The emotional aftermath of a student kitchen sink.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0318",
+    "type": "answer",
+    "text": "The emotional aftermath of a motorway services at midnight.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0319",
+    "type": "answer",
+    "text": "The emotional aftermath of the back door of an awards afterparty.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0320",
+    "type": "answer",
+    "text": "starting beef over crisps while everyone pretends not to notice.",
+    "tags": [
+      "pubs",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "pub-chaos",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0321",
+    "type": "answer",
+    "text": "calling it a robust process while everyone pretends not to notice.",
+    "tags": [
+      "politics",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "political-farce",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0322",
+    "type": "answer",
+    "text": "weaponising the word loyal while everyone pretends not to notice.",
+    "tags": [
+      "reality TV",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "reality-tv-meltdown",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0323",
+    "type": "answer",
+    "text": "replying all with menace while everyone pretends not to notice.",
+    "tags": [
+      "British workplaces",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "workplace-dread",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0324",
+    "type": "answer",
+    "text": "starting a dance circle nobody asked for while everyone pretends not to notice.",
+    "tags": [
+      "nightlife",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "nightlife-regret",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0325",
+    "type": "answer",
+    "text": "calling everyone ref while everyone pretends not to notice.",
+    "tags": [
+      "football culture",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "football-nonsense",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0326",
+    "type": "answer",
+    "text": "naming and shaming a wheelie bin while everyone pretends not to notice.",
+    "tags": [
+      "local Facebook groups",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "local-facebook-drama",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0327",
+    "type": "answer",
+    "text": "asking why you're still single while everyone pretends not to notice.",
+    "tags": [
+      "awkward family events",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 3,
+    "styleCategory": "family-awkwardness",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0328",
+    "type": "answer",
+    "text": "sniffing it and making things worse while everyone pretends not to notice.",
+    "tags": [
+      "gross-out humour",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "gross-out",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0329",
+    "type": "answer",
+    "text": "summoning Ofsted by accident while everyone pretends not to notice.",
+    "tags": [
+      "absurd dark comedy",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 5,
+    "styleCategory": "absurd-dark-comedy",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  },
+  {
+    "id": "cf-a-0330",
+    "type": "answer",
+    "text": "launching a wellness brand by Monday while everyone pretends not to notice.",
+    "tags": [
+      "celebrity/tabloid references",
+      "uk-focused",
+      "adult-only",
+      "development-candidate"
+    ],
+    "intensity": 4,
+    "styleCategory": "tabloid-trash",
+    "createdAt": "2026-06-12T15:44:35.078Z",
+    "status": "candidate",
+    "reviewNotes": []
+  }
+]

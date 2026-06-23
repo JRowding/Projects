@@ -1,0 +1,214 @@
+{
+  "generatedAt": "2026-06-23T16:17:55.834Z",
+  "totalConfiguredDeckCodes": 22,
+  "uniqueDeckCodes": 22,
+  "duplicateDeckCodesRemoved": 0,
+  "uniqueDecksImported": 22,
+  "successfulImports": 22,
+  "failedImports": 0,
+  "promptCardCount": 1265,
+  "textAnswerCount": 3514,
+  "excludedImageCardCount": 1483,
+  "excludedMixedCardCount": 0,
+  "excludedCardCount": 1483,
+  "decks": [
+    {
+      "code": "SBYGD",
+      "success": true,
+      "textPromptCount": 90,
+      "textAnswerCount": 380,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "HA7D0",
+      "success": true,
+      "textPromptCount": 148,
+      "textAnswerCount": 305,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "R7XYE",
+      "success": true,
+      "textPromptCount": 156,
+      "textAnswerCount": 330,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "Q5KQJ",
+      "success": true,
+      "textPromptCount": 37,
+      "textAnswerCount": 236,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "BRJPQ",
+      "success": true,
+      "textPromptCount": 27,
+      "textAnswerCount": 0,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "VJBB9",
+      "success": true,
+      "textPromptCount": 108,
+      "textAnswerCount": 318,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "YYSDC",
+      "success": true,
+      "textPromptCount": 0,
+      "textAnswerCount": 95,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "57QMS",
+      "success": true,
+      "textPromptCount": 0,
+      "textAnswerCount": 0,
+      "excludedImageCardCount": 384,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 384
+    },
+    {
+      "code": "35RXG",
+      "success": true,
+      "textPromptCount": 0,
+      "textAnswerCount": 0,
+      "excludedImageCardCount": 1099,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 1099
+    },
+    {
+      "code": "VNQPW",
+      "success": true,
+      "textPromptCount": 57,
+      "textAnswerCount": 239,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "ZQW8G",
+      "success": true,
+      "textPromptCount": 57,
+      "textAnswerCount": 85,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "PA8XH",
+      "success": true,
+      "textPromptCount": 124,
+      "textAnswerCount": 336,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "BC3TS",
+      "success": true,
+      "textPromptCount": 23,
+      "textAnswerCount": 58,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "L37HP",
+      "success": true,
+      "textPromptCount": 25,
+      "textAnswerCount": 50,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "KW0IS",
+      "success": true,
+      "textPromptCount": 19,
+      "textAnswerCount": 27,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "XLIZW",
+      "success": true,
+      "textPromptCount": 107,
+      "textAnswerCount": 444,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "IDXPI",
+      "success": true,
+      "textPromptCount": 47,
+      "textAnswerCount": 108,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "GCNYB",
+      "success": true,
+      "textPromptCount": 29,
+      "textAnswerCount": 63,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "KXNLT",
+      "success": true,
+      "textPromptCount": 44,
+      "textAnswerCount": 136,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "N4GCV",
+      "success": true,
+      "textPromptCount": 84,
+      "textAnswerCount": 133,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "DIBZN",
+      "success": true,
+      "textPromptCount": 66,
+      "textAnswerCount": 145,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    },
+    {
+      "code": "W8A2O",
+      "success": true,
+      "textPromptCount": 17,
+      "textAnswerCount": 26,
+      "excludedImageCardCount": 0,
+      "excludedMixedCardCount": 0,
+      "excludedCardCount": 0
+    }
+  ]
+}

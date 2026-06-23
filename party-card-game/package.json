@@ -1,0 +1,29 @@
+{
+  "name": "party-card-game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "next build",
+    "start": "tsx server.ts --prod",
+    "typecheck": "tsc --noEmit",
+    "cards:generate": "tsx tools/card-factory/cardFactory.ts generate",
+    "cards:dedupe": "tsx tools/card-factory/cardFactory.ts dedupe",
+    "cards:export": "tsx tools/card-factory/cardFactory.ts export",
+    "decks:import": "tsx tools/deck-importer/importDecks.ts"
+  },
+  "dependencies": {
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "socket.io": "4.8.1",
+    "socket.io-client": "4.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.29",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "tsx": "4.19.4",
+    "typescript": "5.8.3"
+  }
+}
