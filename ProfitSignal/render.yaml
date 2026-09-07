@@ -5,6 +5,6 @@ services:
     plan: free
     rootDir: ProfitSignal
     buildCommand: pip install -r requirements.txt
-    startCommand: python scanner_v2.py
+    startCommand: python scanner_v3.py
     healthCheckPath: /health
     autoDeploy: true
