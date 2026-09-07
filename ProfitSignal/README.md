@@ -1,40 +1,56 @@
 # ProfitSignal
 
-A zero-cost UK product opportunity scanner MVP.
+A zero-cost UK product opportunity scanner designed around one rule: demand first, products second.
 
-## What it does
+## Current version: v2
+
+ProfitSignal now:
 - Pulls the live Google Trends UK RSS feed.
-- Filters for terms with product-buying signals.
-- Scores opportunities instead of pretending every trend is sellable.
-- Optionally validates demand/competition against eBay UK using the official Browse API.
-- Shows a mobile-friendly dashboard with HOT / WATCH / RESEARCH / IGNORE scores.
+- Filters out obvious news/sports/non-product noise.
+- Detects product-intent terms across home, tech, pet, beauty, fitness, fashion and seasonal categories.
+- Scores each candidate as HOT / WATCH / RESEARCH / IGNORE.
+- Optionally validates UK competition and median market price with the official eBay Browse API.
+- Stores rolling scan snapshots during the running Render instance so repeat appearances can earn/lose acceleration points.
+- Gives a route hint such as dropship candidate, affiliate/avoid stock, or research supplier.
+- Includes a browser-saved watchlist.
+- Includes a manual margin calculator for supplier cost, shipping and marketplace fees.
+- Exports the current scan to CSV.
+- Remains mobile-friendly.
+- Refuses to invent opportunities when the live feed has no credible product signals.
 
-## Run locally
+## Deploy on Render
+Use the repository `JRowding/Projects` and set the root directory to `ProfitSignal`.
+
+The included `render.yaml` starts:
+
 ```bash
-cd ProfitSignal
-pip install -r requirements.txt
-python app.py
+python scanner_v2.py
 ```
-Then open http://localhost:5000
 
-## eBay validation (optional)
-Create an eBay developer app and set these environment variables:
+Health endpoint:
+
+```text
+/health
+```
+
+## eBay validation (optional but recommended)
+Create an eBay developer application and add these environment variables in Render:
 
 ```bash
 EBAY_CLIENT_ID=...
 EBAY_CLIENT_SECRET=...
 ```
 
-Without them the scanner still works using live Google Trends data, but eBay listing count and median-price validation remain off.
+Without them the core scanner still works, but marketplace listing counts and median prices are not validated.
 
-## Render
-This folder includes `render.yaml`. Deploy from the `JRowding/Projects` repository with root directory `ProfitSignal`, or create a Blueprint from the YAML.
+## Important limitation
+Google Trends RSS is a broad UK trend feed, not a dedicated shopping bestseller feed. v2 is therefore a genuine opportunity triage tool, not yet an autonomous proof-of-profit engine. The next major improvement is adding more lawful demand sources and supplier feeds so a product can be scored using sales velocity, landed supplier cost and marketplace demand together.
 
-## Next build targets
-1. Add TikTok Shop / creator-marketplace trend input where accessible without violating platform rules.
-2. Add supplier validation for legitimate UK-compatible dropship wholesalers.
-3. Add landed-cost, marketplace-fee and estimated-margin modelling.
-4. Store daily snapshots so acceleration can be measured rather than inferred from a single scan.
-5. Add watchlist and alerting when a product crosses a chosen score/margin threshold.
+The rolling snapshot database uses Render's local filesystem on the free tier, so history can reset after a restart/redeploy. The browser watchlist persists locally on the user's device.
 
-The MVP intentionally refuses to manufacture fake opportunities. If the current UK trend feed contains no clear product-intent terms, it says so.
+## Next serious build targets
+1. Add another live product-demand source beyond Google Trends.
+2. Add legitimate UK-compatible dropship/wholesale supplier feeds.
+3. Calculate landed cost and true margin automatically where supplier data permits.
+4. Add persistent external storage only if the scanner proves useful enough to justify it.
+5. Add alerts when a watched product crosses a chosen score/margin threshold.
